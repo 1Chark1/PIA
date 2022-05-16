@@ -1,0 +1,16 @@
+﻿'ProyectoF.exe' (Win32): 'D:\VisualStudio\zProyecots visual studios\ProyectoF\x64\Debug\ProyectoF.exe' cargado. Símbolos cargados.
+'ProyectoF.exe' (Win32): 'C:\Windows\System32\ntdll.dll' cargado. 
+'ProyectoF.exe' (Win32): 'C:\Windows\System32\kernel32.dll' cargado. 
+'ProyectoF.exe' (Win32): 'C:\Windows\System32\KernelBase.dll' cargado. 
+'ProyectoF.exe' (Win32): 'C:\Windows\System32\msvcp140d.dll' cargado. 
+'ProyectoF.exe' (Win32): 'C:\Windows\System32\vcruntime140d.dll' cargado. 
+'ProyectoF.exe' (Win32): 'C:\Windows\System32\vcruntime140_1d.dll' cargado. 
+'ProyectoF.exe' (Win32): 'C:\Windows\System32\ucrtbased.dll' cargado. 
+El subproceso 0x2dfc terminó con código 0 (0x0).
+'ProyectoF.exe' (Win32): 'C:\Windows\System32\sechost.dll' cargado. 
+'ProyectoF.exe' (Win32): 'C:\Windows\System32\rpcrt4.dll' cargado. 
+'ProyectoF.exe' (Win32): 'C:\Windows\System32\kernel.appcore.dll' cargado. 
+'ProyectoF.exe' (Win32): 'C:\Windows\System32\msvcrt.dll' cargado. 
+El subproceso 0x63a8 terminó con código 0 (0x0).
+El subproceso 0x172c terminó con código 0 (0x0).
+El programa '[27252] ProyectoF.exe' terminó con código 0 (0x0).

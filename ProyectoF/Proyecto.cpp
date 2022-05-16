@@ -336,6 +336,8 @@ void main() {
 					Acita[i].desc = " ";
 					Acita[i].ctra = 0;
 					Acita[i].pu = 0;
+					Acita[i].stotal = 0;
+					Acita[i].iva = 0;
 					Acita[i].total = 0;
 
 					cout << "\n Su cita fue eliminada correctamente\n";
@@ -390,17 +392,17 @@ void main() {
 			if (myfile.is_open()) {
 				for (int k = 0; k < i; k++) {
 
-					cout << "ID de cita: " << Acita[k].cita << endl;
-					cout << "\nNombre del paciente: " << Acita[k].nom;
-					cout << "\nHora del tratamiento (en formato 24hrs): " << Acita[k].hor;
-					cout << "\nNombre del tratamient: " << Acita[k].ntra;
-					cout << "\nDescripcion: " << Acita[k].desc;
-					cout << "\nCantidad del tratamiento: " << Acita[k].ctra;
-					cout << "\nPrecio Unitario: " << Acita[k].pu;
-					cout << "\nTotal: " << Acita[k].total;
-					cout << "\n\nSubtotal: " << Acita[k].stotal;
-					cout << "\nIVA: " << Acita[k].iva;
-					cout << "\nTotal: " << Acita[k].total << endl << endl;;
+					myfile << "ID de cita: " << Acita[k].cita << endl;
+					myfile << "\nNombre del paciente: " << Acita[k].nom;
+					myfile << "\nHora del tratamiento (en formato 24hrs): " << Acita[k].hor;
+					myfile << "\nNombre del tratamient: " << Acita[k].ntra;
+					myfile << "\nDescripcion: " << Acita[k].desc;
+					myfile << "\nCantidad del tratamiento: " << Acita[k].ctra;
+					myfile << "\nPrecio Unitario: " << Acita[k].pu;
+					myfile << "\nTotal: " << Acita[k].total;
+					myfile << "\n\nSubtotal: " << Acita[k].stotal;
+					myfile << "\nIVA: " << Acita[k].iva;
+					myfile << "\nTotal: " << Acita[k].total << endl << endl;;
 
 				}
 			}

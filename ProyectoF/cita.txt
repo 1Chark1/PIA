@@ -1,0 +1,42 @@
+ID de cita: 1
+
+Nombre del paciente: carlos 
+Hora del tratamiento (en formato 24hrs): 12
+Nombre del tratamient: paracetamol
+Descripcion: e duele mucho
+Cantidad del tratamiento: 5
+Precio Unitario: 50
+Total: 290
+
+Subtotal: 250
+IVA: 40
+Total: 290
+
+ID de cita: 0
+
+Nombre del paciente:  
+Hora del tratamiento (en formato 24hrs): 0
+Nombre del tratamient:  
+Descripcion:  
+Cantidad del tratamiento: 0
+Precio Unitario: 0
+Total: 0
+
+Subtotal: 0
+IVA: 0
+Total: 0
+
+ID de cita: 3
+
+Nombre del paciente: samuel 
+Hora del tratamiento (en formato 24hrs): 14
+Nombre del tratamient: amoxicilina
+Descripcion: e duele
+Cantidad del tratamiento: 3
+Precio Unitario: 50
+Total: 174
+
+Subtotal: 150
+IVA: 24
+Total: 174
+
